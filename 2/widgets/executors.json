@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://shoaibmansoor.github.io/wdio-ts-github-actions",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #1323796733",
+  "buildUrl" : "https://github.com/shoaibmansoor/wdio-ts-github-actions/actions/runs/1323796733",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://shoaibmansoor.github.io/wdio-ts-github-actions/2/"
+} ]
