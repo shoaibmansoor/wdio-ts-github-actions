@@ -1,0 +1,21 @@
+[ {
+  "uid" : "fe1ea1db6ac6dc7c",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1633792616837,
+    "stop" : 1633792624509,
+    "duration" : 7672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "800625b4d40f64f3",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1633792632849,
+    "stop" : 1633792637363,
+    "duration" : 4514
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
